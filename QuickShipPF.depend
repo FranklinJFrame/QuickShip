@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1775973318 source:c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+	"listas.h"
+
+1776124471 c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\archivos.h
+
+1775973222 c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\estructuras.h
+
+1775973274 c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\listas.h
+	"estructuras.h"
+
+1775973285 source:c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1776130109 source:c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"atajos.h"
+	"validaciones.h"
+	"formatos.h"
+	"archivos.h"
+	"reportes.h"
+
+1776125201 c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\validaciones.h
+
+1776131754 source:c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\validaciones.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1776038651 source:c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\atajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"atajos.h"
+
+1776018199 c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\atajos.h
+
+1776131507 source:c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\formatos.c
+	<stdio.h>
+	"formatos.h"
+	"atajos.h"
+
+1776018223 c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\formatos.h
+
+1776054462 c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\reportes.h
+
+1776124449 c:\users\frank\documents\proyectofinal-fundamentosprogramacion\quickshippf\ordenar.h
+
+1776038651 source:c:\users\frank\downloads\quickshippf\atajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"atajos.h"
+
+1776018199 c:\users\frank\downloads\quickshippf\atajos.h
+
+1776131507 source:c:\users\frank\downloads\quickshippf\formatos.c
+	<stdio.h>
+	"formatos.h"
+	"atajos.h"
+
+1776018223 c:\users\frank\downloads\quickshippf\formatos.h
+
+1776134309 source:c:\users\frank\downloads\quickshippf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"atajos.h"
+	"validaciones.h"
+	"formatos.h"
+	"archivos.h"
+	"reportes.h"
+
+1776125201 c:\users\frank\downloads\quickshippf\validaciones.h
+
+1776124471 c:\users\frank\downloads\quickshippf\archivos.h
+
+1776054462 c:\users\frank\downloads\quickshippf\reportes.h
+
+1776131754 source:c:\users\frank\downloads\quickshippf\validaciones.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
